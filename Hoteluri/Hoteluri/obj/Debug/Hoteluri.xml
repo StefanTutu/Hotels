@@ -1,0 +1,420 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Hoteluri
+</name>
+</assembly>
+<members>
+<member name="T:Hoteluri.SIADDataSet.CampaniiPublicitareDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hoteluri.SIADDataSet.CircuiteDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hoteluri.SIADDataSet.ClientiDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hoteluri.SIADDataSet.DetaliiCircuitDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hoteluri.SIADDataSet.FeedbackDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hoteluri.SIADDataSet.IstoricClientDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hoteluri.SIADDataSet.LocatiiDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hoteluri.SIADDataSet.ObiectiveTuristiceDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hoteluri.SIADDataSet.PacheteTuristiceDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hoteluri.SIADDataSet.IarnaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hoteluri.SIADDataSet.Interval1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hoteluri.SIADDataSet.Interval2DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hoteluri.SIADDataSet.Interval3DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hoteluri.SIADDataSet.PrimavaraDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hoteluri.SIADDataSet.QueryStudiiDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hoteluri.SIADDataSet.QueryVarstaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hoteluri.SIADDataSet.ToamnaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hoteluri.SIADDataSet.VaraDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hoteluri.SIADDataSet.CampaniiPublicitareRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hoteluri.SIADDataSet.CircuiteRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hoteluri.SIADDataSet.ClientiRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hoteluri.SIADDataSet.DetaliiCircuitRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hoteluri.SIADDataSet.FeedbackRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hoteluri.SIADDataSet.IstoricClientRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hoteluri.SIADDataSet.LocatiiRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hoteluri.SIADDataSet.ObiectiveTuristiceRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hoteluri.SIADDataSet.PacheteTuristiceRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hoteluri.SIADDataSet.IarnaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hoteluri.SIADDataSet.Interval1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hoteluri.SIADDataSet.Interval2Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hoteluri.SIADDataSet.Interval3Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hoteluri.SIADDataSet.PrimavaraRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hoteluri.SIADDataSet.QueryStudiiRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hoteluri.SIADDataSet.QueryVarstaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hoteluri.SIADDataSet.ToamnaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hoteluri.SIADDataSet.VaraRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hoteluri.SIADDataSet.CampaniiPublicitareRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hoteluri.SIADDataSet.CircuiteRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hoteluri.SIADDataSet.ClientiRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hoteluri.SIADDataSet.DetaliiCircuitRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hoteluri.SIADDataSet.FeedbackRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hoteluri.SIADDataSet.IstoricClientRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hoteluri.SIADDataSet.LocatiiRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hoteluri.SIADDataSet.ObiectiveTuristiceRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hoteluri.SIADDataSet.PacheteTuristiceRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hoteluri.SIADDataSet.IarnaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hoteluri.SIADDataSet.Interval1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hoteluri.SIADDataSet.Interval2RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hoteluri.SIADDataSet.Interval3RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hoteluri.SIADDataSet.PrimavaraRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hoteluri.SIADDataSet.QueryStudiiRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hoteluri.SIADDataSet.QueryVarstaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hoteluri.SIADDataSet.ToamnaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hoteluri.SIADDataSet.VaraRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hoteluri.SIADDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Hoteluri.SIADDataSetTableAdapters.CampaniiPublicitareTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hoteluri.SIADDataSetTableAdapters.CircuiteTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hoteluri.SIADDataSetTableAdapters.ClientiTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hoteluri.SIADDataSetTableAdapters.DetaliiCircuitTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hoteluri.SIADDataSetTableAdapters.FeedbackTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hoteluri.SIADDataSetTableAdapters.IstoricClientTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hoteluri.SIADDataSetTableAdapters.LocatiiTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hoteluri.SIADDataSetTableAdapters.ObiectiveTuristiceTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hoteluri.SIADDataSetTableAdapters.PacheteTuristiceTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hoteluri.SIADDataSetTableAdapters.IarnaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hoteluri.SIADDataSetTableAdapters.Interval1TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hoteluri.SIADDataSetTableAdapters.Interval2TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hoteluri.SIADDataSetTableAdapters.Interval3TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hoteluri.SIADDataSetTableAdapters.PrimavaraTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hoteluri.SIADDataSetTableAdapters.QueryStudiiTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hoteluri.SIADDataSetTableAdapters.QueryVarstaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hoteluri.SIADDataSetTableAdapters.ToamnaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hoteluri.SIADDataSetTableAdapters.VaraTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Hoteluri.SIADDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Hoteluri.SIADDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Hoteluri.SIADDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Hoteluri.SIADDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Hoteluri.SIADDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Hoteluri.SIADDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Hoteluri.SIADDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Hoteluri.SIADDataSetTableAdapters.TableAdapterManager.UpdateAll(Hoteluri.SIADDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Hoteluri.SIADDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Hoteluri.SIADDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Hoteluri.SIADDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:Hoteluri.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Hoteluri.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:Hoteluri.My.Resources.Resources._005_St_Regis_Luxury_Hotel_Abu_Dhabi_UAE_Entrance_Doorway">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hoteluri.My.Resources.Resources._005_St_Regis_Luxury_Hotel_Abu_Dhabi_UAE_Entrance_Doorway1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hoteluri.My.Resources.Resources._1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hoteluri.My.Resources.Resources._10">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hoteluri.My.Resources.Resources._11">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hoteluri.My.Resources.Resources._12">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hoteluri.My.Resources.Resources._13">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hoteluri.My.Resources.Resources._2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hoteluri.My.Resources.Resources._3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hoteluri.My.Resources.Resources._4">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hoteluri.My.Resources.Resources._5">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hoteluri.My.Resources.Resources._7">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hoteluri.My.Resources.Resources._9">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hoteluri.My.Resources.Resources.images">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hoteluri.My.Resources.Resources.images__1_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hoteluri.My.Resources.Resources.receptie_hotel">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hoteluri.My.Resources.Resources.receptie_hotel1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hoteluri.My.Resources.Resources.snowy_tree_bokeh_fullhdwpp_com_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:Hoteluri.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

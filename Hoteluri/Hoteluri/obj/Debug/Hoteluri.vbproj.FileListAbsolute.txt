@@ -1,0 +1,69 @@
+D:\FEAA\Master - SIA\SIAD\Proiect - Hotel\Hoteluri\Hoteluri\bin\Debug\Hoteluri.exe.config
+D:\FEAA\Master - SIA\An 1\Sem 1\SIAD\Proiect - Hotel\Hoteluri\Hoteluri\bin\Debug\Hoteluri.exe.config
+D:\FEAA\Master - SIA\An 1\Sem 1\SIAD\Proiect - Hotel\Hoteluri\Hoteluri\bin\Debug\Hoteluri.exe
+D:\FEAA\Master - SIA\An 1\Sem 1\SIAD\Proiect - Hotel\Hoteluri\Hoteluri\bin\Debug\Hoteluri.pdb
+D:\FEAA\Master - SIA\An 1\Sem 1\SIAD\Proiect - Hotel\Hoteluri\Hoteluri\bin\Debug\Hoteluri.xml
+D:\FEAA\Master - SIA\An 1\Sem 1\SIAD\Proiect - Hotel\Hoteluri\Hoteluri\obj\Debug\Hoteluri.Resources.resources
+D:\FEAA\Master - SIA\An 1\Sem 1\SIAD\Proiect - Hotel\Hoteluri\Hoteluri\obj\Debug\Hoteluri.vbproj.GenerateResource.Cache
+D:\FEAA\Master - SIA\An 1\Sem 1\SIAD\Proiect - Hotel\Hoteluri\Hoteluri\obj\Debug\Hoteluri.exe
+D:\FEAA\Master - SIA\An 1\Sem 1\SIAD\Proiect - Hotel\Hoteluri\Hoteluri\obj\Debug\Hoteluri.xml
+D:\FEAA\Master - SIA\An 1\Sem 1\SIAD\Proiect - Hotel\Hoteluri\Hoteluri\obj\Debug\Hoteluri.pdb
+D:\FEAA\Master - SIA\An 1\Sem 1\SIAD\Proiect - Hotel\Hoteluri\Hoteluri\obj\Debug\Hoteluri.Logare.resources
+D:\FEAA\Master - SIA\An 1\Sem 1\SIAD\Proiect - Hotel\Hoteluri\Hoteluri\obj\Debug\Hoteluri.Meniu.resources
+D:\FEAA\Master - SIA\An 1\Sem 1\SIAD\Proiect - Hotel\Hoteluri\Hoteluri\obj\Debug\Interop.Microsoft.Office.Core.dll
+D:\FEAA\Master - SIA\An 1\Sem 1\SIAD\Proiect - Hotel\Hoteluri\Hoteluri\obj\Debug\Hoteluri.vbproj.ResolveComReference.cache
+D:\FEAA\Master - SIA\An 1\Sem 1\SIAD\Proiect - Hotel\Hoteluri\Hoteluri\obj\Debug\Hoteluri.Cerinta4.resources
+D:\FEAA\Master - SIA\An 1\Sem 1\SIAD\Proiect - Hotel\Hoteluri\Hoteluri\obj\Debug\Hoteluri.Cerinta3.resources
+D:\FEAA\Master - SIA\An 1\Sem 1\SIAD\Proiect - Hotel\Hoteluri\Hoteluri\obj\Debug\Hoteluri.Cerinta6.resources
+D:\FEAA\Master - SIA\An 1\Sem 1\SIAD\Proiect - Hotel\Hoteluri\Hoteluri\obj\Debug\Hoteluri.Informatii.resources
+D:\FEAA\Master - SIA\An 1\Sem 1\SIAD\Proiect - Hotel\Hoteluri\Hoteluri\bin\Debug\SIAD.accdb
+D:\FEAA\Master - SIA\An 1\Sem 1\SIAD\Proiect - Hotel\Hoteluri\Hoteluri\obj\Debug\Hoteluri.Cerinta2.resources
+D:\FEAA\Master - SIA\An 1\Sem 1\SIAD\Proiect - Hotel\Hoteluri\Hoteluri\obj\Debug\Hoteluri.Cerinta1.resources
+D:\FEAA\Master - SIA\An 1\Sem 1\SIAD\Proiect - Hotel\Hoteluri\Hoteluri\obj\Debug\Hoteluri.Cerinta5.resources
+C:\Users\Anca Ciridariu\Downloads\Proiect - Hotel\Hoteluri\Hoteluri\bin\Debug\Hoteluri.exe.config
+C:\Users\Anca Ciridariu\Downloads\Proiect - Hotel\Hoteluri\Hoteluri\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\Anca Ciridariu\Downloads\Proiect - Hotel\Hoteluri\Hoteluri\obj\Debug\Hoteluri.vbproj.ResolveComReference.cache
+C:\Users\Anca Ciridariu\Downloads\Proiect - Hotel\Hoteluri\Hoteluri\obj\Debug\Hoteluri.exe
+C:\Users\Anca Ciridariu\Downloads\Proiect - Hotel\Hoteluri\Hoteluri\obj\Debug\Hoteluri.xml
+C:\Users\Anca Ciridariu\Downloads\Proiect - Hotel\Hoteluri\Hoteluri\obj\Debug\Hoteluri.pdb
+C:\Users\Anca Ciridariu\Downloads\Proiect - Hotel\Hoteluri\Hoteluri\bin\Debug\SIAD.accdb
+C:\Users\Anca Ciridariu\Downloads\Proiect - Hotel\Hoteluri\Hoteluri\bin\Debug\Hoteluri.exe
+C:\Users\Anca Ciridariu\Downloads\Proiect - Hotel\Hoteluri\Hoteluri\bin\Debug\Hoteluri.pdb
+C:\Users\Anca Ciridariu\Downloads\Proiect - Hotel\Hoteluri\Hoteluri\bin\Debug\Hoteluri.xml
+C:\Users\Anca Ciridariu\Downloads\Proiect - Hotel\Hoteluri\Hoteluri\obj\Debug\Hoteluri.vbprojResolveAssemblyReference.cache
+C:\Users\Anca Ciridariu\Downloads\Proiect - Hotel\Hoteluri\Hoteluri\obj\Debug\Hoteluri.Cerinta1.resources
+C:\Users\Anca Ciridariu\Downloads\Proiect - Hotel\Hoteluri\Hoteluri\obj\Debug\Hoteluri.Cerinta2.resources
+C:\Users\Anca Ciridariu\Downloads\Proiect - Hotel\Hoteluri\Hoteluri\obj\Debug\Hoteluri.Cerinta4.resources
+C:\Users\Anca Ciridariu\Downloads\Proiect - Hotel\Hoteluri\Hoteluri\obj\Debug\Hoteluri.Cerinta3.resources
+C:\Users\Anca Ciridariu\Downloads\Proiect - Hotel\Hoteluri\Hoteluri\obj\Debug\Hoteluri.Cerinta5.resources
+C:\Users\Anca Ciridariu\Downloads\Proiect - Hotel\Hoteluri\Hoteluri\obj\Debug\Hoteluri.Cerinta6.resources
+C:\Users\Anca Ciridariu\Downloads\Proiect - Hotel\Hoteluri\Hoteluri\obj\Debug\Hoteluri.Logare.resources
+C:\Users\Anca Ciridariu\Downloads\Proiect - Hotel\Hoteluri\Hoteluri\obj\Debug\Hoteluri.Informatii.resources
+C:\Users\Anca Ciridariu\Downloads\Proiect - Hotel\Hoteluri\Hoteluri\obj\Debug\Hoteluri.Meniu.resources
+C:\Users\Anca Ciridariu\Downloads\Proiect - Hotel\Hoteluri\Hoteluri\obj\Debug\Hoteluri.Resources.resources
+C:\Users\Anca Ciridariu\Downloads\Proiect - Hotel\Hoteluri\Hoteluri\obj\Debug\Hoteluri.vbproj.GenerateResource.Cache
+C:\Users\Anca Ciridariu\Downloads\Proiect - Hotel\Hoteluri\Hoteluri\obj\Debug\Hoteluri.Form1.resources
+D:\FEAA\Master - SIA\An 1\Sem 1\SIAD\Proiect - Hotel2\Hoteluri\Hoteluri\bin\Debug\Hoteluri.exe.config
+D:\FEAA\Master - SIA\An 1\Sem 1\SIAD\Proiect - Hotel2\Hoteluri\Hoteluri\obj\Debug\Interop.Microsoft.Office.Core.dll
+D:\FEAA\Master - SIA\An 1\Sem 1\SIAD\Proiect - Hotel2\Hoteluri\Hoteluri\obj\Debug\Hoteluri.vbproj.ResolveComReference.cache
+D:\FEAA\Master - SIA\An 1\Sem 1\SIAD\Proiect - Hotel2\Hoteluri\Hoteluri\obj\Debug\Hoteluri.exe
+D:\FEAA\Master - SIA\An 1\Sem 1\SIAD\Proiect - Hotel2\Hoteluri\Hoteluri\obj\Debug\Hoteluri.xml
+D:\FEAA\Master - SIA\An 1\Sem 1\SIAD\Proiect - Hotel2\Hoteluri\Hoteluri\obj\Debug\Hoteluri.pdb
+D:\FEAA\Master - SIA\An 1\Sem 1\SIAD\Proiect - Hotel2\Hoteluri\Hoteluri\obj\Debug\Hoteluri.vbprojResolveAssemblyReference.cache
+D:\FEAA\Master - SIA\An 1\Sem 1\SIAD\Proiect - Hotel2\Hoteluri\Hoteluri\obj\Debug\Hoteluri.Cerinta1.resources
+D:\FEAA\Master - SIA\An 1\Sem 1\SIAD\Proiect - Hotel2\Hoteluri\Hoteluri\obj\Debug\Hoteluri.Cerinta2.resources
+D:\FEAA\Master - SIA\An 1\Sem 1\SIAD\Proiect - Hotel2\Hoteluri\Hoteluri\obj\Debug\Hoteluri.Cerinta4.resources
+D:\FEAA\Master - SIA\An 1\Sem 1\SIAD\Proiect - Hotel2\Hoteluri\Hoteluri\obj\Debug\Hoteluri.Cerinta3.resources
+D:\FEAA\Master - SIA\An 1\Sem 1\SIAD\Proiect - Hotel2\Hoteluri\Hoteluri\obj\Debug\Hoteluri.Cerinta5.resources
+D:\FEAA\Master - SIA\An 1\Sem 1\SIAD\Proiect - Hotel2\Hoteluri\Hoteluri\obj\Debug\Hoteluri.Cerinta6.resources
+D:\FEAA\Master - SIA\An 1\Sem 1\SIAD\Proiect - Hotel2\Hoteluri\Hoteluri\obj\Debug\Hoteluri.Form1.resources
+D:\FEAA\Master - SIA\An 1\Sem 1\SIAD\Proiect - Hotel2\Hoteluri\Hoteluri\obj\Debug\Hoteluri.Logare.resources
+D:\FEAA\Master - SIA\An 1\Sem 1\SIAD\Proiect - Hotel2\Hoteluri\Hoteluri\obj\Debug\Hoteluri.Informatii.resources
+D:\FEAA\Master - SIA\An 1\Sem 1\SIAD\Proiect - Hotel2\Hoteluri\Hoteluri\obj\Debug\Hoteluri.Meniu.resources
+D:\FEAA\Master - SIA\An 1\Sem 1\SIAD\Proiect - Hotel2\Hoteluri\Hoteluri\obj\Debug\Hoteluri.Resources.resources
+D:\FEAA\Master - SIA\An 1\Sem 1\SIAD\Proiect - Hotel2\Hoteluri\Hoteluri\obj\Debug\Hoteluri.vbproj.GenerateResource.Cache
+D:\FEAA\Master - SIA\An 1\Sem 1\SIAD\Proiect - Hotel2\Hoteluri\Hoteluri\bin\Debug\SIAD.accdb
+D:\FEAA\Master - SIA\An 1\Sem 1\SIAD\Proiect - Hotel2\Hoteluri\Hoteluri\bin\Debug\Hoteluri.exe
+D:\FEAA\Master - SIA\An 1\Sem 1\SIAD\Proiect - Hotel2\Hoteluri\Hoteluri\bin\Debug\Hoteluri.pdb
+D:\FEAA\Master - SIA\An 1\Sem 1\SIAD\Proiect - Hotel2\Hoteluri\Hoteluri\bin\Debug\Hoteluri.xml
+D:\FEAA\Master - SIA\An 1\Sem 1\SIAD\Proiect - Hotel2\Hoteluri\Hoteluri\obj\Debug\Hoteluri.Form2.resources
